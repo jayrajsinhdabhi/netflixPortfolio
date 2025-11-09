@@ -1,11 +1,9 @@
 import { Button } from "@/components/ui/button";
 import { Play, Info } from "lucide-react";
-import VideoSrc from "./video/Brooklyn999.mp4";
-
-// Small presentational component so TypeScript handles the import and JSX cleanly
+// Use the public/ path so the static asset is served directly by the host.
 const VideoBackground = () => (
   <video
-    src={VideoSrc}
+    src="/video/B999Final.mp4"
     className="w-full h-full object-cover"
     autoPlay
     muted
