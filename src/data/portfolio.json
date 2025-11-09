@@ -1,0 +1,21 @@
+{
+  "name": "Jayrajsinh Dabhi",
+  "bio": "Full-stack developer and computer engineering student with experience in web and mobile apps, cloud services, and IT support.",
+  "skills": [
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Node.js",
+    "Ruby on Rails",
+    "AWS",
+    "Docker",
+    "MySQL",
+    "MongoDB",
+    "Microsoft Intune",
+    "Active Directory"
+  ],
+  "projects": [
+    { "title": "E-Commerce Platform", "year": "2024" },
+    { "title": "AI Chat Application", "year": "2023" }
+  ]
+}

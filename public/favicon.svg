@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="512" height="512">
+  <!-- Transparent background; red 'J' centered like the provided image -->
+  <g fill="none" fill-rule="evenodd">
+    <text x="50%" y="66%" font-family="Bebas Neue, Arial, sans-serif" font-size="92" fill="#e50914" text-anchor="middle" dominant-baseline="middle">J</text>
+  </g>
+</svg>

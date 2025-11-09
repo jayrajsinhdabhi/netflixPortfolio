@@ -1,0 +1,3 @@
+node_modules
+# ignore large video assets that shouldn't be committed
+src/components/video/*.mp4
